@@ -1,8 +1,8 @@
 # Quantum_Computing
 Quantum_Computing
 #https://oslomet.instructure.com/courses/24255/files/folder/Projects?preview=2857994
-#project No. 4
-# 
+#
+# project No. 4
 5 - The coherent state  
 #Task
 This project aligns with Exercise 3.2.2 in the quantum physics compendium. It addresses a single-
