@@ -1,18 +1,22 @@
 # Quantum_Computing
 Quantum_Computing
-#https://oslomet.instructure.com/courses/24255/files/folder/Projects?preview=2897848
-#project No. 5
+#https://oslomet.instructure.com/courses/24255/files/folder/Projects?preview=2857994
+#project No. 4
 # 
-5 - Scattering on a double well: Resonances 
-This projects rests heavily on what we did in Exercise 2.4.1 in the quantum physics compendium. 
-However, in this case, we will apply a double barrier, 
-𝑉(𝑥)=𝑉𝑠(𝑥−𝑑)+𝑉𝑠(𝑥+𝑑), 
-where 𝑉𝑠(𝑥) is the potential given in equation 2.27 in the compendium. It is important that the 
-separation between the barriers, 2𝑑, is considerably larger than the width, 𝑤, of each barrier. Finally, 
-the barriers should not be too wide. 
-Now, with an initial Gaussian placed wave function placed to the left of the double barrier with a 
-positive initial mean momentum, solve the Schrödinger equation in order to determine the 
-transmission and reflection probability. Do this repeatedly with initial energy ranging from (almost) 0 
-to 𝑉0 – the heigth of the barriers. Finally, plot the transmission probability as a function of initial 
-energy or momentum 
-The result may be a bit unexpected. 
+5 - The coherent state  
+#Task
+This project aligns with Exercise 3.2.2 in the quantum physics compendium. It addresses a single-
+particle quantum system with a potential of the form 
+𝑉(𝑥)=1
+2 𝑥2 ; 
+this potential is typically referred to as the harmonic oscillator. In this case, the energy spectrum is 
+purely discrete and particularly simple: 
+𝐸𝑛 =ℏ(𝑛+12), 
+where n is an integer and we have assumed the particle mass to be 1. By carefully designing a specific 
+initial wave function as a linear combination of the eigen states of the Hamiltonian, we may have the 
+system behave almost as if it were classical. The project consists in simulating this – and compare the 
+behaviour of the wave function with how a classical particle would behave. (It may be more similar 
+than you would think.) 
+
+#Resources
+https://homepage.univie.ac.at/reinhold.bertlmann/pdfs/T2_Skript_Ch_5.pdf
