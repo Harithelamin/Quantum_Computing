@@ -4,7 +4,9 @@ Quantum_Computing
 #
 # project No. 4
 
-#Pop-count function
+# Pop-count function
+
+
 #Task
 This project aligns with Exercise 3.2.2 in the quantum physics compendium. It addresses a single-
 particle quantum system with a potential of the form 
